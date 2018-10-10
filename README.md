@@ -1,2 +1,1 @@
-# midterm-report
-Midterm Report
+# Midterm Report
